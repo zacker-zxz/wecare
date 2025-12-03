@@ -1,10 +1,16 @@
 # Online-Appointment-Management-System
 This is for DBMS Lab project
 
+<img width="1270" height="700" alt="Screenshot 2025-12-01 215924" src="https://github.com/user-attachments/assets/bb2c83ba-e550-480b-8d59-7ce968c65741" />
+
+
 <b>OVERVIEW:</b>
 Online Appointment Management System is a computerized management system. This system keeps the records of the Online Appointment being booked in this organization. The proposed system will keep a track of different appointment details including the doctors and clinic details. This project has GUI based software that will help in storing, updating, and retrieving the information through various user-friendly menu-driven modules. The project “Online Appointment Management System” is aimed to develop to maintain the day-to-day appointments. Main objective of this project is to provide appointments and clinic details to customers. This software application will help admin to handle customer information, doctor details and clinic details. Detailed explanation about modules and design are provided in project documentation. The existing system is a manually maintained system. All the appointment records are to be maintained for the details of each customer, doctor details, appointment registration, etc.
 
 <b>For patients:</b>
+
+<img width="1265" height="699" alt="Screenshot 2025-12-01 222202" src="https://github.com/user-attachments/assets/28c6144a-8b05-40e5-806a-a6c6e76f4b29" />
+
 
 -Register as an patient account
 
@@ -19,6 +25,9 @@ Online Appointment Management System is a computerized management system. This s
 -Search clinic and doctor
 
 <b>For Admin:</b>
+
+<img width="1267" height="696" alt="Screenshot 2025-12-01 220011" src="https://github.com/user-attachments/assets/b678fe35-867c-4ea2-8122-5e48e7aac609" />
+
 
 -Add doctor/clinic/manager in database
 
@@ -72,3 +81,4 @@ Online Appointment Management System is a computerized management system. This s
   
   <b>For report:</b>
   https://github.com/likhitaavl2k/Online-Appointment-Management-System/blob/main/Extra/Report.pdf
+
